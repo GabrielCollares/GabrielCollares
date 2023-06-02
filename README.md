@@ -3,7 +3,7 @@
 
 - #### <img src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="20px"> __Acquiring as much knowledge as possible every day, to become a future full stack developer.__
 
-## 🛠 __Technologies being studied__
+## 🛠 __Technologies I will study and am studying__
 <div style="display: inline_block"><br/>
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
