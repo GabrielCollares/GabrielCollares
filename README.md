@@ -17,5 +17,5 @@
 <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ikqra03zdnggljdu5vv0" width="20px"> __FreeCodeCamp:__ 
 https://www.freecodecamp.org/GabrielCollares
 
-<img src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" width="20px">__Linkedin:__
+<img src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" width="20px"> __Linkedin:__
 https://www.linkedin.com/in/gabriel-cruz-617837278
