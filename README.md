@@ -22,3 +22,11 @@ https://www.freecodecamp.org/GabrielCollares
 
 <img src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" width="20px"> __Linkedin:__
 https://www.linkedin.com/in/gabriel-cruz-617837278
+
+<b >My GitHub Stats </b>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielCollares&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielCollares&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielCollares&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielCollares&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielCollares&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
