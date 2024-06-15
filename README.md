@@ -1,7 +1,7 @@
 # __Hello everyone__ <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30px">, __I'm Gabriel Collares__
-- #### <a href=https://digitalcollege.com.br target="_blank"> <img src=https://digitalcollege.com.br/wp-content/uploads/2022/05/logo-digital.png width="40px"></a> __Beginner full stack student at "Digital college".__ 
+- #### <a href=https://digitalcollege.com.br target="_blank"> <img src=https://digitalcollege.com.br/wp-content/uploads/2022/05/logo-digital.png width="40px"></a> __Beginner full stack student at "Digital college"__ 
 
-- #### <img src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="20px"> __Acquiring as much knowledge as possible every day, to become a future full stack developer.__
+- #### <img src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="20px"> __Acquiring as much knowledge as possible every day, to become a future full stack developer__
 
 ## 🛠 __Technologies I will study and am studying__
 <div style="display: inline_block"><br/>
