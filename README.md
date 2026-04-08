@@ -1,32 +1,51 @@
-# __Hello everyone__ <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="30px">, __I'm Gabriel Collares__
-- #### <a href=https://digitalcollege.com.br target="_blank"> <img src=https://digitalcollege.com.br/wp-content/uploads/2022/05/logo-digital.png width="40px"></a> __Beginner full stack student at "Digital college"__ 
+# Hi 👋, I'm Gabriel Collares
 
-- #### <img src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="20px"> __Acquiring as much knowledge as possible every day, to become a future full stack developer__
+🚀 **Backend Developer | C# | .NET**
+🇧🇷 Brazil
 
-## 🛠 __Technologies I will study and am studying__
-<div style="display: inline_block"><br/>
+I am a developer focused on back-end development using **C# and .NET**, with **experience in building APIs, system integrations, and scalable applications.**
 
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="center" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img align="center" alt="Express" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="Express" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+I also have **experience with front-end technologies such as JavaScript and React**, contributing to well-structured solutions aligned with **project requirements.**.
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="[https://github.com/GabrielCollares]">
+    <img src="https://img.shields.io/badge/GitHub-GabrielCollares-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-collares/">
+    <img src="https://img.shields.io/badge/LinkedIn-GABRIEL%20COLLARES-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- 🔍 Improve my ability to analyze and solve complex problems
+- 🏗️ Learn software architecture concepts (Clean Architecture, DDD, SOLID)
+- 🗄️ Gain experience with relational databases (SQL Server) and ORM (Entity Framework)
+- 📩 Learn messaging systems (RabbitMQ, Kafka or similar)
+- ⚙️ Understand CI/CD and deployment pipelines
+- 🧩 Deepen my knowledge of the MVC pattern
+- ✅ Apply clean code practices and participate in code reviews
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,ts,sqlite,react,rabbitmq,nodejs,docker,vite,tailwind,mysql" />
+</p>
+
+---
 
 
-## __My social network__ (working)
+## 🎯 2026 Goals
 
-
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ikqra03zdnggljdu5vv0" width="20px"> __FreeCodeCamp:__ 
-https://www.freecodecamp.org/GabrielCollares
-
-<img src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg" width="20px"> __Linkedin:__
-https://www.linkedin.com/in/gabriel-cruz-617837278
-
-<b >My GitHub Stats </b>
-
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielCollares&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielCollares&theme=nord_dark) 
-
-
-
+- ✅ Strengthen backend fundamentals
+- ✅ Build real-world .NET projects
+- ✅ Learn APIs and databases deeply
+- ✅ Improve software architecture skills
+- ✅ Grow my developer brand online
