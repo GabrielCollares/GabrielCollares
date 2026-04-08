@@ -36,7 +36,7 @@ I also have **experience with front-end technologies such as JavaScript and Reac
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,ts,sqlite,react,rabbitmq,nodejs,docker,vite,tailwind,mysql" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,ts,sqlite,react,rabbitmq,nodejs,docker,vite,tailwind,mysql,js" />
 </p>
 
 ---
@@ -44,8 +44,5 @@ I also have **experience with front-end technologies such as JavaScript and Reac
 
 ## 🎯 2026 Goals
 
-- ✅ Strengthen backend fundamentals
-- ✅ Build real-world .NET projects
-- ✅ Learn APIs and databases deeply
-- ✅ Improve software architecture skills
-- ✅ Grow my developer brand online
+- ✅ Getting a job
+
