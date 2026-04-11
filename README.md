@@ -5,7 +5,7 @@
 
 I am a developer focused on back-end development using **C# and .NET**, with **experience in building APIs, system integrations, and scalable applications.**
 
-I also have **experience with front-end technologies such as JavaScript and React**, contributing to well-structured solutions aligned with **project requirements.**.
+I also have **experience with front-end technologies such as JavaScript and React**, contributing to well-structured solutions aligned with **project requirements.**
 
 ---
 
